@@ -13,6 +13,8 @@ This project implements a deep learning model for detecting deepfake images. The
 - OpenCV
 - Gradio
 
+##Dataset Link -> https://drive.google.com/drive/folders/1Cjc83ExrfafkNEjK2MmdJPYmg8Irbj3a?usp=drive_link
+
 ## Tech Stack
 - **Deep Learning Framework:** TensorFlow
 - **Model Architecture:** Convolutional Neural Network (CNN)
