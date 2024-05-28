@@ -1,0 +1,4 @@
+# Ignore data directory
+/data/
+# Ignore JPEG files in data directory
+/data/*.jpg
