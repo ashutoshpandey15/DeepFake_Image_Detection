@@ -9,3 +9,4 @@ myvenv\Scripts\activate
 !pip install seaborn
 !pip install matplotlib
 !pip install numpy
+these are the files which need to be installed.
