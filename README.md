@@ -42,7 +42,7 @@ This project implements a deep learning model for detecting deepfake images. The
 - Experiment with different model architectures and hyperparameters.
 - Explore advanced data augmentation techniques.
 - Implement more sophisticated deepfake detection algorithms.
-
+- This project is created for educational perposes only.
 ## Contributors
 - [Your Name](https://github.com/your-username)
 
